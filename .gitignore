@@ -13,3 +13,4 @@
 
 # ignore test
 app.txt
+app*.txt
